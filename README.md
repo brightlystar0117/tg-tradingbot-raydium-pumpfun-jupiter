@@ -38,13 +38,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/btcoin23/Growtradebot.git
+git clone https://github.com/brightlystar0117/tg-tradingbot-raydium-pumpfun-jupiter.git
 ```
 
 2. Go to the project directory:
 
 ```sh
-cd Growtradebot
+cd tg-tradingbot-raydium-pumpfun-jupiter
 ```
 
 3. Install the dependencies:
