@@ -9,8 +9,8 @@
 
 ## Screenshot
 
-![6](https://github.com/btcoin23/Growtradebot/assets/138183918/351d8203-6f4d-4560-8b70-cecf0468ad9a)
-![z](https://github.com/btcoin23/Growtradebot/assets/138183918/20e824c4-82ab-4774-a4b3-5434d4cf925f)
+![6](https://github-production-user-asset-6210df.s3.amazonaws.com/138183918/343667485-351d8203-6f4d-4560-8b70-cecf0468ad9a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250211T081154Z&X-Amz-Expires=300&X-Amz-Signature=208166d26fa8c2d915a942d9dcf593b8228467e92b7a8b3ecbc0d7161a3b08e4&X-Amz-SignedHeaders=host)
+![z](https://github-production-user-asset-6210df.s3.amazonaws.com/138183918/343667571-20e824c4-82ab-4774-a4b3-5434d4cf925f.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250211T081256Z&X-Amz-Expires=300&X-Amz-Signature=fb23f32c15bdea9a11407e62394ca9a2ab057be5c39adc3979f0a21b08170db3&X-Amz-SignedHeaders=host)
 
 ## Tech stack
 - Typescript
@@ -90,6 +90,6 @@ npm run serve
 ## Version 1.0,   21/6/2024
 
 ## Contact me
-- [Telegram](https://t.me/BTC0in23)
+- [Telegram](https://t.me/regendarystar)
 
-- [Github](https://github.com/btcoin23)
+- [Github](https://github.com/brightlystar0117)
